@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: aefb421ab4778d74fbdf58d200523a96
+  m_Entries:
+  - m_Id: 401164783616
+    m_Key: Instruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 936316030976
+    m_Key: Be Quick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005194891264
+    m_Key: Round Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1042507419648
+    m_Key: Click to Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1504518393856
+    m_Key: Draw
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4805696094153998360
+  references:
+    version: 2
+    RefIds:
+    - rid: 4805696094153998360
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1665066636762

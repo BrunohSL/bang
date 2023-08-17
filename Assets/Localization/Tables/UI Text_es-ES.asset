@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: aefb421ab4778d74fbdf58d200523a96, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 401164783616
+    m_Localized: Cuando vea lo bang (       ), haga clic en su lado de la pantalla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 936316030976
+    m_Localized: "Preste atenci\xF3n y sea r\xE1pido en el gatillo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005194891264
+    m_Localized: Toque en cualquier lugar de la pantalla para comenzar otra ronda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1042507419648
+    m_Localized: Haga clic en cualquier lugar para comenzar ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1504518393856
+    m_Localized: EMPATE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
